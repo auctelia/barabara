@@ -1,6 +1,6 @@
 {
-  "name": "@webinmove/barabara",
-  "version": "1.2.2",
+  "name": "@auctelia/barabara",
+  "version": "1.2.3",
   "description": "Automatic express-router from generic controllers",
   "main": "src/Barabara.js",
   "directories": {
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/webinmove/barabara.git"
+    "url": "https://github.com/auctelia/barabara.git"
   },
   "bugs": {
-    "url": "https://github.com/webinmove/barabara/issues"
+    "url": "https://github.com/auctelia/barabara/issues"
   },
-  "homepage": "https://github.com/webinmove/barabara#readme",
+  "homepage": "https://github.com/auctelia/barabara#readme",
   "keywords": [
     "api",
     "automatic",
@@ -33,7 +33,7 @@
     "router",
     "routing"
   ],
-  "author": "@webinmove",
+  "author": "@auctelia",
   "contributors": [
     "Olivier Cuypers <oliviercuyp@gmail.com>",
     "Louis Borsu <sat@satprod.net>"
